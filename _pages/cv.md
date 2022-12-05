@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Applied Mathematics (with Data Science), UC Berkeley, 2020
+* M.Phil in Economics, University of Oxford, 2022
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2022 - Present: Consulting Associate
+  * Charles River Associates
+  * Antitrust and Competition Economics Practice
+  * Worked on anitrust cases, mergers and acquisions
+  * Clients included Google, Amazon, Adobe-Figma
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2019 - May 2020: Research Assistant
+  * UC Berkeley, Department of Economics 
+  * Creation of tax databases and new tax progressivity index
+  * Flat tax policy evaluation on GINI
+  * Supervisor: Dr. Cata Nicodemo
+
+* July 2019 - May 2020: Research Assistant
+  * UC Berkeley, Department of Economics 
+  * Creation of tax databases and new tax progressivity index
+  * Flat tax policy evaluation on GINI
+  * Supervisor: Professor Yuriy Gorodnichenko
+
+* January 2019 - May 2020: Teaching Assistant
+  * UC Berkeley, Department of Economics
+  * Supervisor: Professors Enrico Moretti, Martha Olney
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -56,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Founded 501(c)(3) non-profit initiative, DataPoint Armenia
