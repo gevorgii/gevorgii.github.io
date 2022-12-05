@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gevorg Khandamiryan"
 title_separator          : "-"
 name                     : &name "Gevorg"
-description              : &description "MPhil at Oxford, consulting associate at CRA"
+description              : &description "MPhil in Economics, consulting associate at CRA"
 url                      : https://gevorgii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://gevorgii.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gevorg Khandamiryan"
   avatar           : "profile.png"
-  bio              : "MPhil in Economics from Oxford"
+  bio              : "MPhil in Economics, Oxford"
   location         : "London, United Kingdom"
   employer         :
   pubmed           : ""
   googlescholar    : ""
-  email            :
+  email            : gevorgkh at berkeley dot edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/gevorg-khandamiryan-28074a11a/"
   orcid            : ""
   pinterest        :
   soundcloud       :
