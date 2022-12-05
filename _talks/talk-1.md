@@ -8,4 +8,4 @@ date: 2021-03-02
 location: "Berkeley, California"
 ---
 
-Presented senior honors thesis on tax, inequality and techniques of data sciece. [Slides]
+Presented senior honors thesis on tax, inequality and techniques of data sciece. [[Slides](http://gevorgii.github.io/files/lec07-guest-slides.pdf)]
