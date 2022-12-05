@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Gevorg Khandamiryan"
   avatar           : "Khandamiryan Gevorg_CRAI Khandamiryan Gevorg 16.jpg"
-  bio              : "MPhil in Economics, Oxford; BA in Applied Mathematics, Economic, UC Berkeley"
+  bio              : "MPhil in Economics, Oxford BA in Applied Mathematics, BA in Economics, UC Berkeley"
   location         : "London, United Kingdom"
   employer         :
 
-  email            : gevorgkh@berkeley.edu
+  email            : 'gevorgkh@berkeley.edu'
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+
   vine             :
   weibo            :
   xing             :
