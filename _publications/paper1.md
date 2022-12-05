@@ -9,6 +9,6 @@ paperurl: 'http://gevorgii.github.io/files/paper1.pdf'
 citation: 'C. Nicodemo, J. Powell, G. Khandamiryan and J. Vidiella-Martin, RR Journal of Medical Internet Research'
 ---
 
-[Download paper here]([http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://gevorgii.github.io/files/paper1.pdf)
 
 
