@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Gevorg Khandamiryan"
   avatar           : "Khandamiryan Gevorg_CRAI Khandamiryan Gevorg 16.jpg"
-  bio              : "MPhil in Economics, Oxford"
+  bio              : "MPhil in Economics, Oxford; BA in Applied Mathematics, Economic, UC Berkeley"
   location         : "London, United Kingdom"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            : gevorgkh at berkeley dot edu
+
+  email            : gevorgkh@berkeley.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,8 +101,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gevorg-khandamiryan-28074a11a"
-  orcid            : ""
+
+
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
