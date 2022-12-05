@@ -60,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Founded 501(c)(3) non-profit initiative, DataPoint Armenia {% [include base_path](https://datapoint.am) %}
+* Founded 501(c)(3) non-profit initiative, [DataPoint Armenia](https://datapoint.am)
