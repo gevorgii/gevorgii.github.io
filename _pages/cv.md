@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[Full CV]('http://gevorgii.github.io/files/Curriculum Vitae - Gevorg.pdf')
+[Full CV]('http://gevorgii.github.io/files/cvgev.pdf')
 
 Education
 ======
