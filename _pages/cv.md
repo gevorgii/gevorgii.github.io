@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[Full CV]('http://gevorgii.github.io/files/cvgev.pdf')
+[Full CV](http://gevorgii.github.io/files/cvgev.pdf)
 
 Education
 ======
@@ -24,11 +24,20 @@ Work experience
   * Worked on anitrust cases, mergers and acquisions
   * Clients included Google, Amazon, Adobe-Figma
 
-* July 2019 - May 2020: Research Assistant
-  * UC Berkeley, Department of Economics 
+* Nov 2020 - Mar 2022: Research Assistant
+  * Nuffield Department of Primary Care Health Sciences, University of Oxford
   * Creation of tax databases and new tax progressivity index
-  * Flat tax policy evaluation on GINI
+  * Contributed and co-authored academic publications on health policy, health labor force and inequality
+  * Developed text sentiment and classification models
+  * Web-scraped and created a text database on the NHS patient reviews
+  * Treatment effects, difference-in-differences
   * Supervisor: Dr. Cata Nicodemo
+
+* July 2021 - Oct 2021: Economist
+  * Oxford Economics
+  * Developed McFadden choice model analysis on returns to research and development
+  * Monte Carlo simulations for consumer spending and inflationary expectations forecast
+  * Developed NLP tools and named entity recognition pipeline
 
 * July 2019 - May 2020: Research Assistant
   * UC Berkeley, Department of Economics 
