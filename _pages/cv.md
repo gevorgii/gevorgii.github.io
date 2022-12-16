@@ -26,7 +26,6 @@ Work experience
 
 * Nov 2020 - Mar 2022: Research Assistant
   * Nuffield Department of Primary Care Health Sciences, University of Oxford
-  * Creation of tax databases and new tax progressivity index
   * Contributed and co-authored academic publications on health policy, health labor force and inequality
   * Developed text sentiment and classification models
   * Web-scraped and created a text database on the NHS patient reviews
