@@ -12,8 +12,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Applied Mathematics (with Data Science), UC Berkeley, 2020
+* PhD in Economics, UC Berkeley, 2023-
 * M.Phil in Economics, University of Oxford, 2022
+* B.A. in Applied Mathematics (with Data Science), UC Berkeley, 2020
 
 
 Work experience
