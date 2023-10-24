@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[Full CV](http://gevorgii.github.io/files/cvgev.pdf)
+[Full CV](http://gevorgii.github.io/files/Curriculum_Vitae_Gevorg_2023.pdf)
 
 Education
 ======
