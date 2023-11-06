@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! I am a PhD Candidate in Economics at UC Berkleey. I earned my MPhil in Economics from the University of Oxford and BA in Applied Mathematics (with Data Science) and BA in Economics from UC Berkeley. I am interested in microeconomic theory, networks, labor and behavioral economics.
+Welcome to my webpage! I am a PhD Candidate in Economics at UC Berkeley. I earned my MPhil in Economics from the University of Oxford and BA in Applied Mathematics (with Data Science) and BA in Economics from UC Berkeley. I am interested in microeconomic theory, networks, labor and behavioral economics.
 
 In my [MPhil thesis](http://gevorgii.github.io/files/MPhilThesis_Khandamiryan_Gevorg_.pdf) I study reputation effects in repeated games with learning, where I propose a new framework of imperfect monitoring of past plays - called geodesic learning based on shortest distance path between entrants in the network. 
 
